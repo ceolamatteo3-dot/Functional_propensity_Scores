@@ -1,0 +1,47 @@
+2026-08-18 14:34:42  === Run start === 
+2026-08-18 14:34:44  Reading Stata metadata from: data/randhrs1992_2022v1.dta 
+2026-08-18 14:34:45  Variables in Stata file: 19880 
+2026-08-18 14:34:45  Requested variables: 414; available: 393; missing: 21 
+2026-08-18 14:35:07  Rows imported from .dta file: 45234 
+2026-08-18 14:35:08  Live person-wave records: 296197 
+2026-08-18 14:35:09  Subjects with baseline interview at age <= 54: 19290 
+2026-08-18 14:35:09  S1 step 1, eligible cohorts: 14981 
+2026-08-18 14:35:09  S1 step 2, diabetes-free through age 64: 11110 
+2026-08-18 14:35:09  S1 step 3, with informative follow-up: 6107 
+2026-08-18 14:35:47  S1 step 4, with reconstructable BMI curve: 5487 
+2026-08-18 14:35:47  S1 step 5, complete baseline confounders: 5483 
+2026-08-18 14:37:08  S2 step 1, with BMI exposure curve: 9919 
+2026-08-18 14:37:31  S2 step 2, with cog27 outcome curve: 3354 
+2026-08-18 14:37:31  S2 step 3, alive through age 74: 3240 
+2026-08-18 14:37:31  S2 step 4, complete baseline confounders: 3240 
+2026-08-18 14:37:35  Study 1 n = 5483; events = 805 (14.7%) 
+2026-08-18 14:37:35  Study 2 n = 3240 
+2026-08-18 14:37:41  EDA complete. Exposure FPCs retained at PVE 0.95: 2 
+2026-08-18 14:37:41  S1 ESS = 4790.1 (87.4% of n); max imbalance = 2.28e-06 
+2026-08-18 14:37:43  S1 bootstrap 2/2 
+2026-08-18 14:39:34  === Run start === 
+2026-08-18 14:39:35  Reading Stata metadata from: data/randhrs1992_2022v1.dta 
+2026-08-18 14:39:36  Variables in Stata file: 19880 
+2026-08-18 14:39:36  Requested variables: 414; available: 393; missing: 21 
+2026-08-18 14:39:58  Rows imported from .dta file: 45234 
+2026-08-18 14:39:59  Live person-wave records: 296197 
+2026-08-18 14:39:59  Subjects with baseline interview at age <= 54: 19290 
+2026-08-18 14:39:59  S1 step 1, eligible cohorts: 14981 
+2026-08-18 14:40:00  S1 step 2, diabetes-free through age 64: 11110 
+2026-08-18 14:40:00  S1 step 3, with informative follow-up: 6107 
+2026-08-18 14:40:37  S1 step 4, with reconstructable BMI curve: 5487 
+2026-08-18 14:40:37  S1 step 5, complete baseline confounders: 5483 
+2026-08-18 14:41:41  S2 step 1, with BMI exposure curve: 9919 
+2026-08-18 14:42:02  S2 step 2, with cog27 outcome curve: 3354 
+2026-08-18 14:42:02  S2 step 3, alive through age 74: 3240 
+2026-08-18 14:42:02  S2 step 4, complete baseline confounders: 3240 
+2026-08-18 14:42:05  Study 1 n = 5483; events = 805 (14.7%) 
+2026-08-18 14:42:05  Study 2 n = 3240 
+2026-08-18 14:42:09  EDA complete. Exposure FPCs retained at PVE 0.95: 2 
+2026-08-18 14:42:10  S1 ESS = 4790.1 (87.4% of n); max imbalance = 2.28e-06 
+2026-08-18 14:42:20  S1 bootstrap 21/21 
+2026-08-18 14:42:20  Study 1 analysis complete. 
+2026-08-18 14:42:20  S2 ESS = 2777.8 (85.7% of n); max imbalance = 4.15e-06 
+2026-08-18 14:42:26  S2 bootstrap 21/21 
+2026-08-18 14:42:26  Study 2 analysis complete. 
+2026-08-18 14:42:26  === Run complete === 

@@ -1,0 +1,16 @@
+n: 3240
+functional outcome: cog27
+exposure age window: 52 - 62
+outcome age window: 64 - 74
+treatment FPCs: 2
+outcome FPCs: 4
+ESS: 2777.8
+ESS fraction: 0.8573
+maximum absolute correlation before: 0.2623
+maximum absolute correlation after: 0
+simultaneous surface critical value: 2.745
+proportion of surface excluding zero: 0
+
+The exposure and outcome age domains are disjoint. All exposure ages precede all outcome ages.
+Therefore, no additional historical or non-anticipativity restriction is needed.
+The analysis is conditional on surviving and being observed through the outcome window.

@@ -1,0 +1,16 @@
+n: 5483
+incident diabetes events: 805
+treatment FPCs in balance model: 2
+treatment FPCs in outcome model: 2
+confounder design columns: 13
+nominal balancing constraints: 41
+ESS: 4790.1
+ESS fraction: 0.8736
+maximum absolute correlation before: 0.2376
+maximum absolute correlation after: 0
+simultaneous critical value: 2.699
+valid simultaneous bootstrap replicates: 21
+failed simultaneous bootstrap replicates: 0
+
+The effect function is on the marginal log-odds scale.
+It represents the effect per one kg/m^2 deviation from the cohort mean BMI curve at exposure age t.
